@@ -1,5 +1,5 @@
-streamlit==1.25.0  # Streamlit の最新バージョンを確認して使用
-numpy==1.22.0  # NumPy
-Pillow==9.5.0  # Python Imaging Library (PIL)
-tensorflow==2.13.0  # TensorFlow
-matplotlib==3.7.1  # プロット用のMatplotlib
+streamlit
+numpy
+Pillow
+tensorflow
+matplotlib
